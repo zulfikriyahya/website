@@ -4,7 +4,6 @@
       "name": "Beranda",
       "url": "/"
     },
-
     {
       "name": "Postingan",
       "url": "",
@@ -32,12 +31,11 @@
         }
       ]
     },
-
     {
       "name": "Profil",
       "url": "",
       "hasChildren": true,
-      "children": [        
+      "children": [
         {
           "name": "Program",
           "url": "/program"
@@ -72,8 +70,6 @@
         }
       ]
     },
-
-
     {
       "name": "Organisasi Siswa",
       "url": "",
@@ -108,8 +104,8 @@
           "url": "/adiwiyata"
         },
         {
-          "name":"Pecinta Alam",
-          "url":"/pecinta-alam"
+          "name": "Pecinta Alam",
+          "url": "/pecinta-alam"
         },
         {
           "name": "English Club",
@@ -129,7 +125,6 @@
         }
       ]
     },
-
     {
       "name": "Web Apps",
       "url": "",
@@ -177,18 +172,15 @@
         }
       ]
     },
-
     {
       "name": "Tentang Kami",
       "url": "/about"
     }
   ],
-
-
   "footer": [
     {
       "name": "Beranda",
-      "url": ""
+      "url": "/"
     },
     {
       "name": "Tentang Kami",
